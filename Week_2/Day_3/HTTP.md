@@ -4,7 +4,7 @@
 
 ## HTTP Flow
 - Request-response based protocol
-  - A slient makes a request to an HTTP server, immediately also sending a message asking for a specific resource, which the server sends down as a response.
+  - A client makes a request to an HTTP server, immediately also sending a message asking for a specific resource, which the server sends down as a response.
   - A server cannot send a response to a client if the client has not first sent a request.
 
 ### HTTP flow Reading [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#http_flow)
