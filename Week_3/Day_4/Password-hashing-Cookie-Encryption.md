@@ -1,4 +1,4 @@
-# W03D04: Security and Real World HTTP Servers
+# Security and Real World HTTP Servers
 
 - Storing passwords in plaintext is bad okay
 - Hashing is a way to deal with storing passwords
