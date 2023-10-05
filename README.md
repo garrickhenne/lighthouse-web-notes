@@ -12,4 +12,5 @@ This repository contains all of the notes taken by [Garrick](https://github.com/
 * [Week 2](/Week_2/)
   * [Day 3](/Week_2/Day_3/)
 * [Week 3](/Week_3/)
+  * [Day 4](/Week_3/Day_4/)
   * [Day 5](/Week_3/Day_5/)
