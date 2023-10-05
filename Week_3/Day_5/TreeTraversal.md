@@ -19,3 +19,10 @@ Traverse tree:
 - Visit the root node of the tree.
 - Get the first unvisited child sub-tree of the current node.
 - Do step 1 with the sub-tree.
+
+***
+### Depth first traversals
+
+- `<root><left><right>`: Pre-order: Data first, then left subtree then right subtree
+- `<left><root><right>`: In-order: Left subtree first, then data, then right subtree
+- `<left><right><root>`: Post-order: Left subtree, then right subtree, then data
