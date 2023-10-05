@@ -23,6 +23,6 @@ Traverse tree:
 ***
 ### Depth first traversals
 
-- `<root><left><right>`: Pre-order: Data first, then left subtree then right subtree
+- `<root><left><right>`: Pre-order: Data first, then left subtree then right subtree. Look at example above.
 - `<left><root><right>`: In-order: Left subtree first, then data, then right subtree
 - `<left><right><root>`: Post-order: Left subtree, then right subtree, then data
